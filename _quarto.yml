@@ -31,7 +31,9 @@ about:
 
 format:
   html:
-    theme: flatly
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
     code-link: true
     code-fold: true
