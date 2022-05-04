@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "analysis/step1.html",
+    "href": "analysis/step1.html",
+    "title": "New SIH project",
+    "section": "",
+    "text": "This is step 1"
+  },
+  {
+    "objectID": "analysis/step1.html#quarto",
+    "href": "analysis/step1.html#quarto",
+    "title": "New SIH project",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "analysis/step1.html#running-code",
+    "href": "analysis/step1.html#running-code",
+    "title": "New SIH project",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\nCodelibrary(ggplot2)\nggplot(data = mtcars, \n       aes(x = mpg, y = hp, \n           col = as.factor(cyl))) + \n  geom_point() + \n  theme_minimal()\n\n\n\nCode1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\nCode2 * 2\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "analysis/step2.html",
+    "href": "analysis/step2.html",
+    "title": "New SIH project",
+    "section": "",
+    "text": "This is step 2"
+  },
+  {
+    "objectID": "analysis/step2.html#quarto",
+    "href": "analysis/step2.html#quarto",
+    "title": "New SIH project",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "analysis/step2.html#running-code",
+    "href": "analysis/step2.html#running-code",
+    "title": "New SIH project",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\nCodelibrary(ggplot2)\nggplot(data = mtcars, \n       aes(x = mpg, y = hp, \n           col = as.factor(cyl))) + \n  geom_point() + \n  theme_minimal()\n\n\n\nCode1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\nCode2 * 2\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_test",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sydney Informatics Hub",
+    "section": "",
+    "text": "SIH is amazing"
+  }
+]

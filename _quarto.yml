@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "New SIH project"
+  reader-mode: true
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Analysis
+        menu:
+          - text: "Step 1"
+            href: analysis/step1.qmd
+          - text: "Step 2"
+            href: analysis/step2.qmd
+    right:
+      - about.qmd
+  repo-url: https://github.com/Sydney-Informatics-Hub/
+  repo-actions: [edit, issue]
+  search:
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: "Copyright 2022, AnalystNameTODO, Sydney Informatics Hub" 
+ 
+about:
+  template: solana
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+    code-link: true
+    code-fold: true
+
+
+

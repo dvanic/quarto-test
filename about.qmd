@@ -1,0 +1,12 @@
+---
+title: "Sydney Informatics Hub"
+about:
+  image: https://avatars.githubusercontent.com/u/38518764?s=400&u=37d5cdf704cab65064b965283a091982cb8fa034&v=4
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Sydney-Informatics-Hub
+---
+
+SIH is amazing.
+
