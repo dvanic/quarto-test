@@ -31,7 +31,7 @@ about:
 
 format:
   html:
-    theme: sandstone
+    theme: flatly
     toc: true
     code-link: true
     code-fold: true
